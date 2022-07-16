@@ -1,9 +1,14 @@
 RENCANA BELAJAR EDIT
 - photoshop
-  1. persiapan "download dan instalasi aplikasinya"
-  2. belajar tool dasar
-  3. belajar masking
+  1. belajar tool dasar
+  2. belajar masking
+  3. belajar saturation
+  4. belajar bringhts
+  5. belajar curve 
+- ilustrator
+  1. belajar buat logo
+  2. belajar membuat ilustarsi orang 
 - inkspace
-  1. download inkspace versi trbaru
-  2. belajar tool dasar
-  3. belajar brazier
+  1. belajar tool dasar
+  2. belajar brazier
+- figma
