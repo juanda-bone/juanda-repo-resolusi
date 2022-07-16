@@ -2,8 +2,13 @@ RENCANA BELAJAR EDIT
 - photoshop
   1. belajar tool dasar
   2. belajar masking
+  3. belajar saturation
+  4. belajar bringhts
+  5. belajar curve 
 - ilustrator
   1. belajar buat logo
+  2. belajar membuat ilustarsi orang 
 - inkspace
   1. belajar tool dasar
   2. belajar brazier
+- figma
