@@ -2,3 +2,5 @@ JUANDA MUAR SAID resolusi
 - belajar mvc
 - belajar laravl
 - belajar node js
+- belajar react js
+- belajar Iot
